@@ -1,6 +1,6 @@
 # Proyecto-Vaca-OpenGL
 
-Este proyecto es una simulación gráfica que representa una vaca siendo abducida por un OVNI. Utiliza C++ y OpenGL para renderizar la escena, incorporando modelos OBJ para los objetos y texturas PNG. La simulación incluye efectos de iluminación para realzar la atmósfera del escenario.
+Este proyecto es una simulación gráfica que representa una vaca siendo abducida por un OVNI. Utiliza C++ y OpenGL para renderizar la escena, incorporando modelos OBJ para los objetos y texturas PNG. La simulación incluye efectos de iluminación para realzar la atmósfera de la acción.
 
 ## Características
 
@@ -8,7 +8,7 @@ Este proyecto es una simulación gráfica que representa una vaca siendo abducid
 - **Carga de Modelos OBJ:** Implementa la biblioteca tinyobjloader para cargar modelos en formato OBJ.
 - **Texturas en PNG:** Uso de texturas almacenadas en formato PNG para mayor detalle visual.
 - **Simulación de Iluminación:** Efectos de luz para simular la abducción nocturna por un OVNI.
-- **Interactividad:** Controla la cámara y la interacción con la escena mediante el teclado y el ratón.
+- **Interactividad:** Controla la cámara y la interacción con la escena mediante el teclado.
 
 ## Tecnologías Utilizadas
 
@@ -25,7 +25,6 @@ Este proyecto es una simulación gráfica que representa una vaca siendo abducid
 - GLFW, GLM, y las bibliotecas de OpenGL instaladas en tu sistema.
 - tinyobjloader y STB Image, incluidos en el proyecto o instalados globalmente.
 
-## Configuración y Compilación
 
 ### Clonar el Repositorio
 
